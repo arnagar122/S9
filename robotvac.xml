@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP>
+  <SHOPITEM>
+    <ITEM_ID>44</ITEM_ID>
+    <PRODUCTNAME>Arnagar S9 Robotický vysavač</PRODUCTNAME>
+    <PRODUCT>Arnagar S9 Robotický vysavač</PRODUCT>
+    <DESCRIPTION>Arnagar S9 je cenově dostupný robotický vysavač a mop se samočisticí funkcí. Nabízí vizuální navigaci a gyroskopickou navigaci spolu s 15 infračervenými senzory. Algoritmus vSLAM byl vylepšen a nabízí maximální sací výkon až 3500Pa a provozní dobu 120 minut. Je univerzální pro různá prostředí, takže ho můžete používat ve svém bytě nebo na samostatných patrech, jako je druhé nebo třetí patro. Díky uživatelsky přívětivému ovládání šetří vaše ruce a čas, což vám umožňuje vychutnat si tento vysoce kvalitní produkt při vynaložení minimálních nákladů.</DESCRIPTION>
+    <URL>http://www.higo188.com/roboticky-vysavac-s-automatickym-sberem-prachu-arnagar-s9--saci-vykon-3600pa--2600mah-baterie/</URL>
+    <IMGURL>https://ae01.alicdn.com/kf/S20faf8451fb749ba954f593a7c62c229L.jpg</IMGURL>
+    <IMGURL_ALTERNATIVE>https://ae01.alicdn.com/kf/S769716bf97e14e3ab0d0d493720b8dfbx.jpg</IMGURL_ALTERNATIVE>
+    <PRICE_VAT>4350</PRICE_VAT>
+    <HEUREKA_CPC>3</HEUREKA_CPC>
+    <MANUFACTURER>Arnagar</MANUFACTURER>
+    <CATEGORYTEXT>Domácí a osobní spotřebiče | Úklidové spotřebiče | Robotické vysavače</CATEGORYTEXT>
+    <EAN>0727824635484</EAN>
+    <PRODUCTNO>CES90BEU</PRODUCTNO>
+    <PARAM>
+      <PARAM_NAME>Značka</PARAM_NAME>
+      <VAL>S9</VAL>
+    </PARAM>
+    <DELIVERY_DATE>5</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>DHL</DELIVERY_ID>
+      <DELIVERY_PRICE>Free</DELIVERY_PRICE>
+      <DELIVERY_PRICE_COD>Free</DELIVERY_PRICE_COD>
+    </DELIVERY>
+    <EXTENDED_WARRANTY>
+      <VAL>24</VAL>
+      <DESC>Záruka na 24 měsíců</DESC>
+    </EXTENDED_WARRANTY>
+  </SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>47</ITEM_ID>
+    <PRODUCTNAME>Arnagar S10 Robotický vysavač</PRODUCTNAME>
+    <PRODUCT>Arnagar S10 Robotický vysavač</PRODUCT>
+    <DESCRIPTION>Robotický vysavač arnagar S10 je inovativní pomocník do vaší domácnosti, který je vybaven pokročilou funkcí automatického sběru prachu. S jeho silným sacím výkonem 4000PA a kapacitou baterie 2600mAh zvládne efektivně čistit různé typy podlah.</DESCRIPTION>
+    <URL>http://www.higo188.com/roboticky-vysavac-s-automatickym-sberem-prachu-arnagar-s10--rotacni-mop--saci-vykon-4000pa--2600mah-baterie/</URL>
+    <IMGURL>https://ae01.alicdn.com/kf/Sfdc8361f3b60496f8adc310dc8f8c9659.png</IMGURL>
+    <IMGURL_ALTERNATIVE>https://ae01.alicdn.com/kf/S4de5d0a36bc841aeb76809daa1d21b4da.jpg</IMGURL_ALTERNATIVE>
+    <PRICE_VAT>6500</PRICE_VAT>
+    <HEUREKA_CPC>3</HEUREKA_CPC>
+    <MANUFACTURER>Arnagar</MANUFACTURER>
+    <CATEGORYTEXT>Domácí a osobní spotřebiče | Úklidové spotřebiče | Robotické vysavače</CATEGORYTEXT>
+    <EAN>0727824635491</EAN>
+    <PRODUCTNO>CES10WEU</PRODUCTNO>
+    <PARAM>
+      <PARAM_NAME>Značka</PARAM_NAME>
+      <VAL>S10</VAL>
+    </PARAM>
+    <DELIVERY_DATE>5</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>DHL</DELIVERY_ID>
+      <DELIVERY_PRICE>Free</DELIVERY_PRICE>
+      <DELIVERY_PRICE_COD>Free</DELIVERY_PRICE_COD>
+    </DELIVERY>
+    <EXTENDED_WARRANTY>
+        <VAL>24</VAL>
+        <DESC>Záruka na 24 měsíců</DESC>
+    </EXTENDED_WARRANTY>
+  </SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>47</ITEM_ID>
+    <PRODUCTNAME>Arnagar S8 Robotický vysavač</PRODUCTNAME>
+    <PRODUCT>Arnagar S8 Robotický vysavač</PRODUCT>
+    <DESCRIPTION>Naše robotické vysavače značky Arnagar, model S8, jsou vybaveny funkcí LDS navigace a 14 skupinami infračervených senzorů. Tento model kombinujete vysávání a mopování s výkonem sání 3500PA a kapacitou baterie 5200 mAh. Ideální pro udržení vaší domácnosti čisté a bez námahy!</DESCRIPTION>
+    <URL>http://www.higo188.com/arnagar-s8-roboticky-vysavac-sweep-mop/</URL>
+    <IMGURL>https://ae01.alicdn.com/kf/S8a0b63406c5344e0bd4152f6d5d4e424p.jpg</IMGURL>
+    <IMGURL_ALTERNATIVE>https://ae01.alicdn.com/kf/S7ac5d5fb45a740b3aa93ffeab19cd88fI.jpg</IMGURL_ALTERNATIVE>
+    <PRICE_VAT>8000</PRICE_VAT>
+    <HEUREKA_CPC>3</HEUREKA_CPC>
+    <MANUFACTURER>Arnagar</MANUFACTURER>
+    <CATEGORYTEXT>Domácí a osobní spotřebiče | Úklidové spotřebiče | Robotické vysavače</CATEGORYTEXT>
+    <EAN>0727824634975</EAN>
+    <PRODUCTNO>CES80BEU</PRODUCTNO>
+    <PARAM>
+      <PARAM_NAME>Značka</PARAM_NAME>
+      <VAL>S8</VAL>
+    </PARAM>
+    <DELIVERY_DATE>5</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>DHL</DELIVERY_ID>
+      <DELIVERY_PRICE>Free</DELIVERY_PRICE>
+      <DELIVERY_PRICE_COD>Free</DELIVERY_PRICE_COD>
+    </DELIVERY>
+    <EXTENDED_WARRANTY>
+        <VAL>24</VAL>
+        <DESC>Záruka na 24 měsíců</DESC>
+    </EXTENDED_WARRANTY>
+  </SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>53</ITEM_ID>
+    <PRODUCTNAME>Arnagar S8 Pro Robotický vysavač</PRODUCTNAME>
+    <PRODUCT>Arnagar S8 Pro Robotický vysavač</PRODUCT>
+    <DESCRIPTION>Naše robotické vysavače značky Arnagar, model S8 Pro, jsou vybaveny funkcí automatického sběru prachu a LDS navigací. S 14 skupinami infračervených senzorů tento model kombinuje vysávání a mopování s výkonem sání 3500PA a kapacitou baterie 5200 mAh. Ideální pro snadné a efektivní udržení vaší domácnosti čisté!</DESCRIPTION>
+    <URL>http://www.higo188.com/roboticky-vysavac-s-automatickym-sberem-prachu-arnagar-s8-pro--saci-vykon-3500pa--5200mah-baterie/</URL>
+    <IMGURL>https://ae01.alicdn.com/kf/S21035716d69143d6a359c361a7647c27t.jpg</IMGURL>
+    <IMGURL_ALTERNATIVE>https://ae01.alicdn.com/kf/Sd517c80840f34b3bb318afbaf36374218.jpg</IMGURL_ALTERNATIVE>
+    <PRICE_VAT>12000</PRICE_VAT>
+    <HEUREKA_CPC>3</HEUREKA_CPC>
+    <MANUFACTURER>Arnagar</MANUFACTURER>
+    <CATEGORYTEXT>Domácí a osobní spotřebiče | Úklidové spotřebiče | Robotické vysavače</CATEGORYTEXT>
+    <EAN>0727824635088</EAN>
+    <PRODUCTNO>CES8PBEU</PRODUCTNO>
+    <PARAM>
+      <PARAM_NAME>Značka</PARAM_NAME>
+      <VAL>S8 Pro</VAL>
+    </PARAM>
+    <DELIVERY_DATE>5</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>DHL</DELIVERY_ID>
+      <DELIVERY_PRICE>Free</DELIVERY_PRICE>
+      <DELIVERY_PRICE_COD>Free</DELIVERY_PRICE_COD>
+    </DELIVERY>
+    <EXTENDED_WARRANTY>
+        <VAL>24</VAL>
+        <DESC>Záruka na 24 měsíců</DESC>
+    </EXTENDED_WARRANTY>
+  </SHOPITEM>
+</SHOP>
